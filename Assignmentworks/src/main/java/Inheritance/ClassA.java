@@ -1,4 +1,4 @@
-package Inheritance;
+package Inheritance;   //multilevel
 
 import java.util.Scanner;
 

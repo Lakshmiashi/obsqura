@@ -1,4 +1,4 @@
-package Inheritance;
+package Inheritance;  //multilevel
 
 public class ClassB extends ClassA {
 	float hra,pf;

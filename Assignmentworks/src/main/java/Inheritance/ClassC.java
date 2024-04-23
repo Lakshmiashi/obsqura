@@ -1,4 +1,4 @@
-package Inheritance;
+package Inheritance;  //multilevel inheritance
 
 public class ClassC extends ClassB{
 
